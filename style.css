@@ -1,1 +1,11 @@
+body {
+  background-color: #444444;
+  color: #69FF33;
+  font-family: 'Trebuchet MS', sans-serif;
+  margin: 10% 20%;
+}
 
+.exp.header {
+  text-transform:uppercase;
+  
+}
