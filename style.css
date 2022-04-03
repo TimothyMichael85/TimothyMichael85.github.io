@@ -1,11 +1,37 @@
 body {
   background-color: #444444;
-  color: #69FF33;
-  font-family: 'Trebuchet MS', sans-serif;
+  color: #dddddd;
+    font-family: Garamond, serif;
   margin: 10% 20%;
 }
 
-.exp.header {
+.header{
+  text-align: center;
   text-transform:uppercase;
   
+}
+
+.skills-header{
+  text-align: center;
+  text-transform:uppercase;
+  border-top: 2px solid #dddddd;
+  border-bottom: 2px solid #dddddd;
+  background-color: rgba (0,0,0, 0.1)
+  
+}
+  
+ .experience-header{
+  text-align: center;
+  text-transform:uppercase;
+  border-top: 2px solid #dddddd;
+  border-bottom: 2px solid #dddddd;
+  background-color: rgba (0,0,0, 0.1)
+}
+    
+ .education-header{
+  text-align: center;
+  text-transform:uppercase;
+  border-top: 2px solid #dddddd;
+  border-bottom: 2px solid #dddddd;
+  background-color: rgba (0,0,0, 0.1)
 }
